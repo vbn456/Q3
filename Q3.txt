@@ -1,0 +1,32 @@
+Log in to the “Command Line Interface” in a CISCO router
+User EXEC mode.
+
+To access all commands
+Privileged EXEC mode.
+
+Switch the global configuration mode to privileged exec mode
+Answer: Use the command 'end' or press Ctrl+Z.
+
+To show the important status information of router
+show version
+show running-config
+
+Clear the counters or interface of router
+clear counters or clear interface
+
+Exit from global configuration mode
+Use the command 'exit' or 'end'.
+
+Methods to exit from privilege exec mode.
+Use the command 'disable'.
+Use the command 'logout' or 'exit' to log out completely.
+
+Get the brief description of the help system in any command mode
+Use the command 'help' or enter '?' at the command prompt.
+
+Command to name the router
+hostname [name]
+
+Set an encrypted password to router
+enable secret [password]
+
